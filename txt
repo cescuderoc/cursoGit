@@ -1,0 +1,17 @@
+commit 8de0be64884b42e8e4598307a39ad7c61dc8d3f4
+Author: Chris <ext_cescuderoc@falabella.cl>
+Date:   Wed May 30 10:20:02 2018 -0400
+
+    agrega edad
+
+commit 140ae72069b6b4412230612437dd1cd9c5bb4530
+Author: Chris <ext_cescuderoc@falabella.cl>
+Date:   Fri May 18 15:54:36 2018 -0400
+
+    se agregan nombres a cada pagina
+
+commit ac78c4cda3f0b3ac2003263a44c2224baa705848
+Author: Chris <ext_cescuderoc@falabella.cl>
+Date:   Wed May 16 10:43:31 2018 -0400
+
+    agrega saludo a las dos paginas
